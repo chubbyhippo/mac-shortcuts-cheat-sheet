@@ -1,4 +1,4 @@
-# Show dot files in Finder
+## Show dot files in Finder
 ```
 cmd + shift + .
 ```
