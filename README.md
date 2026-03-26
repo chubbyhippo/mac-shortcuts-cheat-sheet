@@ -4,6 +4,7 @@
 - Open selected item: `cmd + ↓`
 - Go to parent folder: `cmd + ↑`
 - Open Home folder: `shift + cmd + h`
+- Open Downloads folder: `option + cmd + l`
 - New Finder window: `cmd + n`
 - New folder: `shift + cmd + n`
 - Rename selected item: `enter`
